@@ -1,6 +1,7 @@
 # ssNetMF
 Network embedding approximation algorithm. Linear complexity in time and space. High Performance.
 
+arxiv: https://arxiv.org/abs/2110.12782
 ## Requirement
 MKL
 
